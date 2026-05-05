@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Nagari</h1>
+Working in a stealth mode
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshfn&label=Profile%20views&color=0e75b6&style=flat" alt="roshfn" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshfn&label=Profile%20views&color=0e75b6&style=flat" alt="roshfn" /> </p
 <p align="left">contact info</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/roshan-nagari-88742b273" target="_blank">
