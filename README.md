@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshan Nagari</h1>
-
-<p align="left">Working in a stealth mode </p>
+<h1 align="center">Hi 👋, I'm Roshan </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshfn&label=Profile%20views&color=0e75b6&style=flat" alt="roshfn" /> </p>
 
